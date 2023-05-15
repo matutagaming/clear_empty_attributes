@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+ultralytics 8.0.228 add training time argument (#7054)
