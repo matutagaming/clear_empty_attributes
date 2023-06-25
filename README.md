@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
