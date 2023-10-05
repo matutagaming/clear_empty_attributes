@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Add docstrings to new HUB functions (#7576)
