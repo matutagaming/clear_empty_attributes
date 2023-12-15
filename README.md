@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Update neural-magic.md (#7347)
