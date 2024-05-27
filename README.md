@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
