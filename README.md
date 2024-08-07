@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Fix TypeError in check_cfg() (#9245)
